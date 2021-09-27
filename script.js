@@ -1,5 +1,5 @@
 var contador = 1;
-var fotos =["Coragem_feliz.png","Coragem_tedio.png", "Coragem_chateado.png", "Coragem_com_medo1.png", "Coragem_medo2.png","Coragem_com_muito_medo.png"];
+var fotos =["Coragem_feliz.png","Coragem_tedio.png", "./Coragem_chateado.png", "Coragem_com_medo1.png", "Coragem_medo2.png","Coragem_com_muito_medo.png"];
 
 var humor=["Feliz", "Entediado", "Chateado","Medo nível 1", "Medo nível 2, preocupante...", "DE-SES-PE-RA-DO!!!!"];
 
